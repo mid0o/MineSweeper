@@ -4,7 +4,7 @@
 
 A modern, feature-rich implementation of the classic Minesweeper game using Python and Tkinter.
 
-![Minesweeper Screenshot](https://github.com/Medjai229/minesweeper/assets/144639977/ef9f86e1-9580-40e6-afd6-c76bdde9d3f8)
+![Minesweeper Screenshot](https://github.com/user-attachments/assets/a7ba4bfa-31f5-4c46-9e9b-bcdcc8bc1793)
 
 ## ✨ Features
 
